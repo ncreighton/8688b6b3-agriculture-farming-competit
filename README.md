@@ -1,2 +1,28 @@
-# 8688b6b3-agriculture-farming-competit
-You shouldn't need a week of setup before your system is usable to have a complete productivity system running today.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Agriculture &amp; Farming Competitor Intelligence — fully conf
+# Agriculture & Farming Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi4gz6mX3o88FG1ZicZM2i)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi4gz6mX3o88FG1ZicZM2i)
+
